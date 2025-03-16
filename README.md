@@ -1,3 +1,3 @@
 # HAProxy
-$ git clone 
+$ git clone  
 $ haproxy -d -f /etc/haproxy/haproxy.cfg
